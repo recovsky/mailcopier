@@ -1,4 +1,4 @@
-from duplicater import mailcopier
+from copier import mailcopier
 import json
 
 f = open('config.json')
